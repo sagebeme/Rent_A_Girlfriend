@@ -68,3 +68,81 @@
 ## Conclusion
 - Summary of the Application
 - Next Steps
+
+
+# FrontEnd
+
+├── public/
+│ ├── index.html
+│ └── ...
+├── src/
+│ ├── components/
+│ │ ├── Common/
+│ │ │ └── ...
+│ │ ├── Girlfriend/
+│ │ │ └── ...
+│ │ ├── Booking/
+│ │ │ └── ...
+│ │ └── Review/
+│ │ └── ...
+│ ├── pages/
+│ │ ├── Home/
+│ │ │ └── ...
+│ │ ├── Girlfriends/
+│ │ │ └── ...
+│ │ ├── Bookings/
+│ │ │ └── ...
+│ │ └── Reviews/
+│ │ └── ...
+│ ├── redux/
+│ │ ├── actions/
+│ │ │ └── ...
+│ │ ├── reducers/
+│ │ │ └── ...
+│ │ └── store.js
+│ ├── services/
+│ │ └── ...
+│ ├── utils/
+│ │ └── ...
+│ ├── App.js
+│ ├── index.js
+│ └── ...
+├── .gitignore
+├── package.json
+└── README.md
+
+# BackEnd
+
+├── rentagirlfriend/
+│ ├── clients/
+│ │ ├── migrations/
+│ │ ├── models.py
+│ │ ├── serializers.py
+│ │ ├── views.py
+│ │ └── ...
+│ ├── girlfriends/
+│ │ ├── migrations/
+│ │ ├── models.py
+│ │ ├── serializers.py
+│ │ ├── views.py
+│ │ └── ...
+│ ├── bookings/
+│ │ ├── migrations/
+│ │ ├── models.py
+│ │ ├── serializers.py
+│ │ ├── views.py
+│ │ └── ...
+│ ├── reviews/
+│ │ ├── migrations/
+│ │ ├── models.py
+│ │ ├── serializers.py
+│ │ ├── views.py
+│ │ └── ...
+│ ├── config/
+│ ├── utils/
+│ ├── manage.py
+│ └── ...
+├── .gitignore
+├── requirements.txt
+└── README.md
+
