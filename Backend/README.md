@@ -14,6 +14,41 @@ The backend of the Rent a Girlfriend web application is built using the followin
 
 The backend project structure is organized as follows:
 
+## BackEnd
+
+├── rentagirlfriend/
+│   ├── clients/
+│   │   ├── migrations/
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── views.py
+│   │   └── ...
+│   ├── girlfriends/
+│   │   ├── migrations/
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── views.py
+│   │   └── ...
+│   ├── bookings/
+│   │   ├── migrations/
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── views.py
+│   │   └── ...
+│   ├── reviews/
+│   │   ├── migrations/
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── views.py
+│   │   └── ...
+│   ├── config/
+│   ├── utils/
+│   ├── manage.py
+│   └── ...
+├── .gitignore
+├── requirements.txt
+└── README.md
+
 
 The `rentagirlfriend` directory contains the main application code, organized into Django apps for different resources:
 

@@ -17,6 +17,46 @@ The frontend of the Rent a Girlfriend web application is built using the followi
 
 The frontend project structure follows a typical React application structure:
 
+## FrontEnd
+
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Common/
+│   │   │   └── ...
+│   │   ├── Girlfriend/
+│   │   │   └── ...
+│   │   ├── Booking/
+│   │   │   └── ...
+│   │   └── Review/
+│   │       └── ...
+│   ├── pages/
+│   │   ├── Home/
+│   │   │   └── ...
+│   │   ├── Girlfriends/
+│   │   │   └── ...
+│   │   ├── Bookings/
+│   │   │   └── ...
+│   │   └── Reviews/
+│   │       └── ...
+│   ├── redux/
+│   │   ├── actions/
+│   │   │   └── ...
+│   │   ├── reducers/
+│   │   │   └── ...
+│   │   └── store.js
+│   ├── services/
+│   │   └── ...
+│   ├── utils/
+│   │   └── ...
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── .gitignore
+├── package.json
+└── README.md
 
 
 The `public` directory contains the main `index.html` file and other static assets. The `src` directory contains the application's source code, organized into subdirectories:
