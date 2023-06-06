@@ -1,0 +1,52 @@
+.page-child {
+  position: absolute;
+  top: 0;
+  left: 312.46px;
+  background-color: var(--color-whitesmoke-200);
+  width: 1440px;
+  height: 1081px;
+}
+.page-item {
+  position: absolute;
+  top: 115.54px;
+  left: 300.87px;
+  border-radius: 281px;
+  background-color: #dfd7f8;
+  width: 828.27px;
+  height: 828.27px;
+  transform: rotate(21.3deg);
+  transform-origin: 0 0;
+}
+.nav-link1 {
+  flex: 1;
+  position: relative;
+  height: 19px;
+  margin-left: -516px;
+}
+.navbar1,
+.page1 {
+  position: absolute;
+}
+.navbar1 {
+  top: 73px;
+  left: calc(50% - 424.77px);
+  width: 849px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.page1 {
+  top: 0;
+  left: -312.46px;
+  width: 1752.46px;
+  height: 1188.1px;
+}
+.boyfriend-profile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  cursor: pointer;
+}

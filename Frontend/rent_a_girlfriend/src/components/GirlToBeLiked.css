@@ -1,0 +1,45 @@
+.image-12-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 492px;
+  height: 309px;
+  object-fit: cover;
+}
+.like1 {
+  position: relative;
+}
+.like,
+.pass {
+  position: absolute;
+  top: 394px;
+  border-radius: var(--br-6xl);
+  width: 164px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.like {
+  left: 0;
+  background-color: var(--color-crimson);
+  padding: 0 var(--padding-35xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+.pass {
+  left: 328px;
+  background-color: var(--color-whitesmoke-100);
+  align-items: center;
+}
+.girl-to-be-liked {
+  position: absolute;
+  top: 372px;
+  left: 184px;
+  width: 492px;
+  height: 442px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-josefin-sans);
+}

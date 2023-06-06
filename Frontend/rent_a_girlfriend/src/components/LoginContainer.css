@@ -1,0 +1,106 @@
+.login-form-child {
+  position: absolute;
+  top: calc(50% + 74.83px);
+  left: calc(50% - 218.02px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkturquoise);
+  width: 439.17px;
+  height: 40.05px;
+}
+.sign-in1 {
+  position: absolute;
+  top: calc(50% + 84.31px);
+  left: calc(50% - 32.78px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 67.64px;
+  height: 20.02px;
+}
+.lets-help-you1,
+.welcome-back {
+  position: absolute;
+  top: calc(50% - 191.81px);
+  left: calc(50% - 149.34px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-cadetblue);
+  width: 286.19px;
+  height: 32.67px;
+}
+.lets-help-you1 {
+  top: calc(50% - 131.73px);
+  left: calc(50% - 157.66px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.06em;
+  width: 294.51px;
+  height: 29.51px;
+}
+.login-form-inner,
+.login-form-item {
+  position: absolute;
+  top: calc(50% - 73.77px);
+  left: calc(50% - 40.07px);
+  border-radius: var(--br-14xl);
+  background-color: var(--color-paleturquoise);
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.25);
+  width: 261.21px;
+  height: 33.72px;
+}
+.login-form-inner {
+  top: calc(50% - 18.97px);
+}
+.forgot-your-password {
+  position: absolute;
+  top: calc(50% + 135.95px);
+  left: calc(50% - 212.82px);
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  display: inline-block;
+  width: 413.15px;
+  height: 26.35px;
+}
+.dont-have-an {
+  font-weight: 500;
+}
+.sign-up2 {
+  font-weight: 600;
+  color: var(--color-lightseagreen);
+}
+.dont-have-an-container,
+.enter-your-password1,
+.your-email1 {
+  position: absolute;
+  top: calc(50% + 168.62px);
+  left: calc(50% - 204.49px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 413.15px;
+  height: 26.35px;
+}
+.enter-your-password1,
+.your-email1 {
+  top: calc(50% + 2.11px);
+  left: calc(50% - 235.72px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.06em;
+  color: var(--color-darkslategray);
+  width: 177.96px;
+  height: 25.29px;
+}
+.your-email1 {
+  top: calc(50% - 64.29px);
+  left: calc(50% - 232.59px);
+}
+.login-form {
+  position: absolute;
+  top: calc(50% - 245px);
+  left: calc(50% - 243px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 486px;
+  height: 489px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

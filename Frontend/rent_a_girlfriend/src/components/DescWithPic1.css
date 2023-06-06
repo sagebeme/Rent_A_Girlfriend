@@ -1,0 +1,145 @@
+.update5 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.06em;
+}
+.update4 {
+  position: absolute;
+  top: calc(50% + 178px);
+  left: calc(50% - 59px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-plum-100);
+  width: 255px;
+  height: 36px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-75xl);
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+}
+.age7,
+.lorem-ipsum,
+.years1 {
+  position: absolute;
+  top: 67px;
+  left: 198px;
+  display: inline-block;
+  width: 316px;
+  height: 24px;
+}
+.age7,
+.lorem-ipsum {
+  top: 0;
+}
+.age7 {
+  top: 66px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.06em;
+  color: var(--color-darkslategray);
+  width: 151px;
+  height: 25px;
+}
+.age6,
+.frame12 {
+  align-self: stretch;
+}
+.age6 {
+  position: relative;
+  height: 91px;
+  margin-top: -24px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.frame12 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.body-shape3 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.06em;
+}
+.hour-glass {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.body-shape2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+}
+.frame11 {
+  align-self: stretch;
+  overflow: hidden;
+  gap: var(--gap-20xl);
+}
+.description6,
+.frame11,
+.frame13 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame13 {
+  align-self: stretch;
+  overflow: hidden;
+  gap: var(--gap-23xl);
+}
+.description6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 514px;
+  gap: var(--gap-22xl);
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray);
+}
+.description-with-update1 {
+  position: absolute;
+  top: 28px;
+  left: 566px;
+  width: 514px;
+  height: 642px;
+}
+.image-12-icon3 {
+  align-self: stretch;
+  position: relative;
+  border-radius: var(--br-202xl-5);
+  max-width: 100%;
+  overflow: hidden;
+  height: 443px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.upload-picture3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 458px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desc-with-pic2 {
+  position: absolute;
+  top: 243px;
+  left: 137px;
+  width: 1080px;
+  height: 670px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

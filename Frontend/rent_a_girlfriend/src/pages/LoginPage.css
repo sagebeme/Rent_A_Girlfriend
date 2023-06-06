@@ -1,0 +1,109 @@
+.login-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 1081px;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: calc(50% - 437.97px);
+  left: calc(50% - 614.27px);
+  width: 1228.55px;
+  height: 875.95px;
+}
+.frame-child12 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 60.66px;
+}
+.rent-a7 {
+  margin: 0;
+}
+.rent-a-gf-container7 {
+  flex: 1;
+  position: relative;
+}
+.group-parent5 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.features7 {
+  position: absolute;
+  top: 0;
+  left: -80px;
+  font-weight: 500;
+  display: inline-block;
+  width: 69px;
+  height: 19px;
+}
+.safety7 {
+  left: 97px;
+  width: 63px;
+}
+.login5,
+.premium7,
+.safety7 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+  height: 19px;
+}
+.login5 {
+  left: 464px;
+  font-size: var(--font-size-xs);
+  width: 52px;
+}
+.premium7 {
+  left: 268px;
+  width: 88px;
+}
+.nav-link8 {
+  flex: 1;
+  position: relative;
+  height: 19px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+  font-family: var(--font-manrope);
+}
+.navbar8 {
+  position: absolute;
+  top: 61px;
+  left: calc(50% - 527.27px);
+  width: 849px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-169xl);
+}
+.mask-group-parent {
+  position: absolute;
+  top: calc(50% - 437px);
+  left: calc(50% - 651px);
+  border-radius: 20px;
+  background: linear-gradient(103.69deg, #e6efee, #e2e9df);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1228.55px;
+  height: 875.95px;
+}
+.login-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-secular-one);
+}

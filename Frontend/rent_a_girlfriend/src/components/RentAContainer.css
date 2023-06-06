@@ -1,0 +1,48 @@
+.frame-child15 {
+  position: relative;
+  width: 61.93px;
+  height: 60.66px;
+}
+.rent-a8 {
+  margin: 0;
+}
+.rent-a-gf-container8 {
+  position: relative;
+  display: inline-block;
+  width: 74px;
+  height: 61px;
+  flex-shrink: 0;
+}
+.group-parent6 {
+  flex: 1;
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-secular-one);
+}
+.features8,
+.login6 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.login6 {
+  font-size: var(--font-size-xs);
+}
+.frame-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-89xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+  font-family: var(--font-manrope);
+}
