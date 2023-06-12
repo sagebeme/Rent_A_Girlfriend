@@ -1,0 +1,214 @@
+.login-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 1081px;
+}
+.mask-group-icon {
+  position: absolute;
+  top: calc(50% - 437.97px);
+  left: calc(50% - 614.27px);
+  width: 1228.55px;
+  height: 875.95px;
+}
+.frame-child4 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 60.66px;
+}
+.rent-a5 {
+  margin: 0;
+}
+.rent-a-gf-container5 {
+  flex: 1;
+  position: relative;
+}
+.group-parent3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.features5 {
+  position: absolute;
+  top: 0;
+  left: -80px;
+  font-weight: 500;
+  display: inline-block;
+  width: 69px;
+  height: 19px;
+}
+.safety5 {
+  left: 97px;
+  width: 63px;
+}
+.login5,
+.premium5,
+.safety5 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+  display: inline-block;
+  height: 19px;
+}
+.login5 {
+  left: 464px;
+  font-size: var(--font-size-xs);
+  width: 52px;
+}
+.premium5 {
+  left: 268px;
+  width: 88px;
+}
+.nav-link5 {
+  flex: 1;
+  position: relative;
+  height: 19px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+  font-family: var(--font-manrope);
+}
+.navbar5 {
+  position: absolute;
+  top: 61px;
+  left: calc(50% - 527.27px);
+  width: 849px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-169xl);
+}
+.mask-group-parent {
+  position: absolute;
+  top: calc(50% - 437px);
+  left: calc(50% - 651px);
+  border-radius: 20px;
+  background: linear-gradient(103.69deg, #e6efee, #e2e9df);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1228.55px;
+  height: 875.95px;
+}
+.login-form-child {
+  position: absolute;
+  top: calc(50% + 74.83px);
+  left: calc(50% - 218.02px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkturquoise);
+  width: 439.17px;
+  height: 40.05px;
+}
+.sign-in1 {
+  position: absolute;
+  top: calc(50% + 84.31px);
+  left: calc(50% - 32.78px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 67.64px;
+  height: 20.02px;
+}
+.lets-help-you1,
+.welcome-back {
+  position: absolute;
+  top: calc(50% - 191.81px);
+  left: calc(50% - 149.34px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  color: var(--color-cadetblue);
+  width: 286.19px;
+  height: 32.67px;
+}
+.lets-help-you1 {
+  top: calc(50% - 131.73px);
+  left: calc(50% - 157.66px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.06em;
+  width: 294.51px;
+  height: 29.51px;
+}
+.login-form-inner,
+.login-form-item {
+  position: absolute;
+  top: calc(50% - 73.77px);
+  left: calc(50% - 40.07px);
+  border-radius: var(--br-14xl);
+  background-color: var(--color-paleturquoise);
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.25);
+  width: 261.21px;
+  height: 33.72px;
+}
+.login-form-inner {
+  top: calc(50% - 18.97px);
+}
+.forgot-your-password {
+  position: absolute;
+  top: calc(50% + 135.95px);
+  left: calc(50% - 212.82px);
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  display: inline-block;
+  width: 413.15px;
+  height: 26.35px;
+}
+.dont-have-an {
+  font-weight: 500;
+}
+.sign-up2 {
+  font-weight: 600;
+  color: var(--color-lightseagreen);
+}
+.dont-have-an-container,
+.enter-your-password1,
+.your-email1 {
+  position: absolute;
+  top: calc(50% + 168.62px);
+  left: calc(50% - 204.49px);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 413.15px;
+  height: 26.35px;
+}
+.enter-your-password1,
+.your-email1 {
+  top: calc(50% + 2.11px);
+  left: calc(50% - 235.72px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.06em;
+  color: var(--color-darkslategray);
+  width: 177.96px;
+  height: 25.29px;
+}
+.your-email1 {
+  top: calc(50% - 64.29px);
+  left: calc(50% - 232.59px);
+}
+.login-form {
+  position: absolute;
+  top: calc(50% - 245px);
+  left: calc(50% - 243px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 486px;
+  height: 489px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.login-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-secular-one);
+}
